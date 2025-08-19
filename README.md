@@ -4,7 +4,7 @@ Este repositorio contiene varios scripts para estudiar el oscilador de Rossler, 
 
 Se incluyen simulaciones de osciladores individuales, pares acoplados, así como análisis de diagramas de bifurcación y mapas de retorno.
 
-##🔹 Contenido del repositorio
+## 🔹 Contenido del repositorio
 
 single_oscillator.py
 Simulación de un oscilador de Rossler individual. Permite observar cómo evolucionan sus variables en el tiempo y explorar el comportamiento caótico. 🌀
